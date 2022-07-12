@@ -1,0 +1,81 @@
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\obj\Debug\Dashboard.Form2.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\obj\Debug\Dashboard.Calculator.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\obj\Debug\Dashboard.Lotto_649.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\obj\Debug\Dashboard.Form3.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\Dashboard\Dashboard\obj\Debug\Dashboard.MoneyExchange_Girenko.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.Calculator.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.Form3.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.Lotto_649.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.Form2.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.MoneyExchange_Girenko.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.Calculator.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.Lotto_649.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.Form2.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.MoneyExchange_Girenko.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.convert_temperature.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.Temp_App_Karina_Girenko.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.IP4_Validator.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\obj\Debug\Dashboard.Calculator.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\obj\Debug\Dashboard.convert_temperature.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\obj\Debug\Dashboard.IP4_Validator.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\obj\Debug\Dashboard.Form2.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\obj\Debug\Dashboard.MoneyExchange_Girenko.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\obj\Debug\Dashboard.Temp_App_Karina_Girenko.resources
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\Karina\Desktop\lasalle\object\final project\new19-03-21\Dashboard\Dashboard\obj\Debug\Dashboard.Lotto_649.resources
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\obj\Debug\Dashboard.Calculator.resources
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\obj\Debug\Dashboard.convert_temperature.resources
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\obj\Debug\Dashboard.IP4_Validator.resources
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\obj\Debug\Dashboard.Lotto_649.resources
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\obj\Debug\Dashboard.Form2.resources
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\obj\Debug\Dashboard.MoneyExchange_Girenko.resources
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\obj\Debug\Dashboard.Temp_App_Karina_Girenko.resources
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\Karina\Desktop\lasalle\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
